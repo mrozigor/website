@@ -152,7 +152,7 @@ Comparez le temps réellement passé avec le temps estimé.
 Traduit en 26 langues différentes
 ---------------------------------
 
-Merci aux différents contributeurs, Kanboard est traduit en indonésien, bosnien, brésilien, chinois, tchèque, danois, anglais, finlandais, français, allemand, grec, hongrois, italien, japonais, coréen, malaisien, norvégien, polonais, portugais, russe, serbe, espagnol, suédois, thaïlandais, turque.
+Merci aux différents contributeurs, Kanboard est traduit en indonésien, bosnien, portugais brésilien, chinois, tchèque, danois, anglais, finlandais, français, allemand, grec, hongrois, italien, japonais, coréen, malaisien, norvégien, polonais, portugais, russe, serbe, espagnol, suédois, thaïlandais, turque.
 
 Plusieurs types d'authentifications
 -----------------------------------

@@ -151,7 +151,7 @@ Compare the time spent to the time estimated.
 Translated in 26 languages
 --------------------------
 
-Thanks to the different contributors, Kanboard is translated in Bahasa Indonesia, Bosnian, Brazilian, Chinese, Czech, Danish, Dutch, English, Finnish, French, German, Greek, Hungarian, Italian, Japanese, Korean, Malay, Norwegian, Polish, Portuguese, Russian, Serbian, Spanish, Swedish, Thai, Turkish.
+Thanks to the different contributors, Kanboard is translated in Bahasa Indonesia, Bosnian, Brazilian Portuguese, Chinese, Czech, Danish, Dutch, English, Finnish, French, German, Greek, Hungarian, Italian, Japanese, Korean, Malay, Norwegian, Polish, Portuguese, Russian, Serbian, Spanish, Swedish, Thai, Turkish.
 
 Multiple Authentication Backends
 --------------------------------
