@@ -14,6 +14,14 @@ API Clients
 - [Official Python Client](https://github.com/kanboard/python-api-client)
 - [Official Javascript Client](https://github.com/kanboard/javascript-api-client)
 
+Mobile Applications
+-------------------
+
+### Android
+
+- [Kanboard Mobile](https://github.com/HarryCLucas/KanboardMobile) by [Harry Lucas](http://www.harryconorlucas.com/)
+- [Kanboard client](https://play.google.com/store/apps/details?id=eu.it_quality.kanboard) by [IT Quality LTD](https://it-quality.eu/)
+
 Continuous Integration / Source Code Management
 -----------------------------------------------
 
