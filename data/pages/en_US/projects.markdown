@@ -19,6 +19,7 @@ Mobile Applications
 
 ### Android
 
+- [Kandroid](https://github.com/andresth/Kandroid) by [Thomas Andres](https://github.com/andresth)
 - [Kanboard Mobile](https://github.com/HarryCLucas/KanboardMobile) by [Harry Lucas](http://www.harryconorlucas.com/)
 - [Kanboard client](https://play.google.com/store/apps/details?id=eu.it_quality.kanboard) by [IT Quality LTD](https://it-quality.eu/)
 
