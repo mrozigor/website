@@ -13,6 +13,18 @@ return [
         'remote_install' => true,
         'compatible_version' => '>=1.0.32',
     ],
+    'chat' => [
+        'title' => 'Chat',
+        'version' => '1.0.0',
+        'author' => 'Frédéric Guillot',
+        'license' => 'MIT',
+        'description' => 'Minimalist chat for small teams.',
+        'homepage' => 'https://github.com/kanboard/plugin-chat',
+        'readme' => 'https://raw.githubusercontent.com/kanboard/plugin-chat/master/README.md',
+        'download' => 'https://github.com/kanboard/plugin-chat/releases/download/v1.0.0/Chat-1.0.0.zip',
+        'remote_install' => true,
+        'compatible_version' => '>=1.0.40',
+    ],
     's3' => [
         'title' => 'Amazon S3 Storage',
         'version' => '1.0.4',
