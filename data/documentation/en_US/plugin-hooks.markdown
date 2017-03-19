@@ -201,6 +201,8 @@ List of template hooks:
 | `template:board:public:task:after-title`                  | Task in public board: after title                  |
 | `template:board:task:footer`                              | Task in board: footer                              |
 | `template:board:task:icons`                               | Task in board: tooltip icon                        |
+| `template:board:table:column:before-header-row`           | Row before board column header                     |
+| `template:board:table:column:after-header-row`            | Row after board column header                      |
 | `template:board:column:dropdown`                          | Dropdown menu in board columns                     |
 | `template:board:column:header`                            | Board column header                                |
 | `template:board:tooltip:subtasks:header:before-assignee`  | Header of Subtask table on tootip before Assignee  |
@@ -209,10 +211,7 @@ List of template hooks:
 | `template:config:application `                            | Application settings form                          |
 | `template:config:email`                                   | Email settings page                                |
 | `template:config:integrations`                            | Integration page in global settings                |
-| `template:dashboard:sidebar`                              | Sidebar on dashboard page                          |
 | `template:dashboard:show`                                 | Main page of the dashboard                         |
-| `template:dashboard:subtasks:header:before-timetracking`  | Header of Subtask table before Time Tracking       |
-| `template:dashboard:subtasks:rows`                        | Column on row of Subtask table of the dashboard    |
 | `template:header:dropdown`                                | Page header dropdown menu (user avatar icon)       |
 | `template:header:creation-dropdown`                       | Page header dropdown menu (plus icon)              |
 | `template:layout:head`                                    | Page layout `<head/>` tag                          |
