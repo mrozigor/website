@@ -16,7 +16,7 @@ Kanboard is not for everybody, it's made for people who want to manage their pro
     </p>
 
     <small>
-        The <a href="/hosting">hosted version</a> is <strong>only $30/month</strong> with a <strong>free trial period of 15 days</strong>.
+        The <a href="/hosting">hosted version</a> is <strong>only $4.99/user/month</strong> with a <strong>free trial period of 15 days</strong>.
     </small>
 </div>
 

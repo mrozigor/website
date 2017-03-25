@@ -16,7 +16,7 @@ Kanboard n'est pas fait pour tout le monde, c'est fait pour les gens qui veulent
     </p>
 
     <small>
-        La <a href="/fr/hebergement">version hébergée</a> est <strong>seulement 30$/mois</strong> avec une <strong>période d'éssai de 15 jours</strong>.
+        La <a href="/fr/hebergement">version hébergée</a> est <strong>seulement 4.99$/utilisateur/mois</strong> avec une <strong>période d'éssai de 15 jours</strong>.
     </small>
 </div>
 
