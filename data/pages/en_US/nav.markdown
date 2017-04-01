@@ -12,6 +12,7 @@
 ### Community
 
 - [Donations](/donations)
+- [Forum](https://forum.kanboard.net/)
 - [Bug Tracker](https://github.com/kanboard/kanboard/issues)
 - [Github Project](https://github.com/kanboard)
 - [Related Projects](/related-projects)
