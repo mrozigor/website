@@ -108,6 +108,13 @@ dd {
     color: #999;
 }
 
+blockquote {
+    border-left: 3px solid #eee;
+    padding-left: 10px;
+    line-height: 1.7em;
+    color: #888;
+}
+
 input[type="submit"] {
     -webkit-appearance: none;
 }
