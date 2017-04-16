@@ -25,13 +25,13 @@ You don't have to worry about technical details: server administration, security
 
 The hosted version of Kanboard uses the latest stable version.
 Official plugins are updated for you.
-Daily backup of your data is made automatically for you.
+A daily backup of your data is made automatically for you.
 
 ### No vendor lock-in
 
 The hosted version is exactly the same version as the open source version.
 
-You can ask for a copy of your data at any time and use it without any modifications (we use Postgresql).
+You can ask for a copy of your data at any time and use it without any modifications (we use PostgreSQL).
 
 ### Secure connection
 
@@ -56,6 +56,6 @@ We can communicate in English or in French.
 
 ### Questions?
 
-Any problem or question? contact-us at [support@kanboard.net](mailto:support@kanboard.net)
+Any problem or question? Contact us at [support@kanboard.net](mailto:support@kanboard.net).
 
 <aside><a href="/terms">Terms of Service and Privacy</aside>
