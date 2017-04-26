@@ -35,6 +35,7 @@ Command Line Tools
 - [Official Kanboard CLI](https://github.com/kanboard/kanboard-cli) (Command Line Client)
 - [Cookiecutter to create Kanboard plugins](https://github.com/kanboard/cookiecutter-plugin)
 - [Trello import script](https://github.com/matueranet/kanboard-import-trello)
+- [Gitlab import script by Juracy Filho](https://github.com/dataprev/kanboard-import-gitlab)
 
 Docker
 ------
