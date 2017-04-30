@@ -54,6 +54,10 @@ We respect the privacy of our users.
 You can talk directly by email to the developers, real humans, not another outsourced customer support.
 We can communicate in English or in French.
 
+### Where are located the servers?
+
+The infrastructure and data are located in New York, USA.
+
 ### Questions?
 
 Any problem or question? Contact us at [support@kanboard.net](mailto:support@kanboard.net).

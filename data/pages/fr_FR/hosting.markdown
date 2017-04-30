@@ -55,6 +55,10 @@ Vous pouvez parler directement par email aux développeurs, des vrais humains, p
 
 Nous pouvons communiquer en anglais et en français.
 
+### Où sont situés les serveurs?
+
+L'infrastructure et les données sont situées à New York aux États-Unis.
+
 ### Questions ?
 
 Vous avez un problème ou une question ? contactez-nous à l'adresse [support@kanboard.net](mailto:support@kanboard.net)
