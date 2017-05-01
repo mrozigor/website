@@ -2,16 +2,23 @@ Title: Kanboard 1.0.43
 Date: 2017-04-30
 ---
 
-Improvements:
+Improvements
+------------
 
 * Add "[DUPLICATE]" prefix to duplicated tasks title
 * Add sorting by position and start date in task list view
 * Update translations
 
-Bug fixes:
+Bug fixes
+---------
 
 * Add missing plugin parameter for search box (Gantt and calendar plugin)
 * Fix broken start date button
+
+Plugins
+-------
+
+* The Gantt chart plugin must be updated to the latest version
 
 Download
 --------

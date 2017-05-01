@@ -117,15 +117,15 @@ Budget planning based on sub-task time tracking:
     ],
     'gantt' => [
         'title' => 'Gantt',
-        'version' => '1.0.0',
+        'version' => '1.0.1',
         'author' => 'Frédéric Guillot',
         'license' => 'MIT',
         'description' => 'Gantt charts for tasks and projects.',
         'homepage' => 'https://github.com/kanboard/plugin-gantt',
         'readme' => 'https://raw.githubusercontent.com/kanboard/plugin-gantt/master/README.md',
-        'download' => 'https://github.com/kanboard/plugin-gantt/releases/download/v1.0.0/Gantt-1.0.0.zip',
+        'download' => 'https://github.com/kanboard/plugin-gantt/releases/download/v1.0.1/Gantt-1.0.1.zip',
         'remote_install' => true,
-        'compatible_version' => '>=1.0.42',
+        'compatible_version' => '>=1.0.43',
     ],
     'github-auth' => [
         'title' => 'Github Authentication',
