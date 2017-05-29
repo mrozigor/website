@@ -3,7 +3,7 @@ Description: Managed Kanboard Hosting
 Language: en_US
 ---
 
-Kanboard Hosting (beta)
+Kanboard Hosting
 ================
 
 We made Kanboard, and we can host it for you. Kanboard hosting is made for small teams.

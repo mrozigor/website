@@ -3,7 +3,7 @@ Description: Hébergement Kanboard infogéré
 Language: fr_FR
 ---
 
-Hébergement Kanboard (bêta)
+Hébergement Kanboard
 ====================
 
 Nous avons développé Kanboard, et nous pouvons l'héberger pour vous.

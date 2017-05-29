@@ -69,15 +69,15 @@ Budget planning based on sub-task time tracking:
     ],
     'calendar' => [
         'title' => 'Calendar',
-        'version' => '1.0.0',
+        'version' => '1.0.1',
         'author' => 'Frédéric Guillot',
         'license' => 'MIT',
         'description' => 'Embedded calendar into Kanboard.',
         'homepage' => 'https://github.com/kanboard/plugin-calendar',
         'readme' => 'https://raw.githubusercontent.com/kanboard/plugin-calendar/master/README.md',
-        'download' => 'https://github.com/kanboard/plugin-calendar/releases/download/v1.0.0/Calendar-1.0.0.zip',
+        'download' => 'https://github.com/kanboard/plugin-calendar/releases/download/v1.0.1/Calendar-1.0.1.zip',
         'remote_install' => true,
-        'compatible_version' => '>=1.0.42',
+        'compatible_version' => '>=1.0.44',
     ],
     'client-certificate' => [
         'title' => 'Client SSL Certificate Authentication',
