@@ -3,11 +3,7 @@
 - [Nouvelles](/news)
 - [Documentation](/fr/documentation)
 - [Téléchargement](/fr/telechargements)
-
-### Services Professionnels
-
 - [Hébergement](/fr/hebergement)
-- [Version Entreprise](/fr/entreprise)
 
 ### Communauté
 

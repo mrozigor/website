@@ -3,11 +3,7 @@
 - [News](/news)
 - [Documentation](/documentation)
 - [Downloads](/downloads)
-
-### Professional Services
-
-- [Managed Hosting](/hosting)
-- [Enterprise Version](/enterprise)
+- [Hosting](/hosting)
 
 ### Community
 
