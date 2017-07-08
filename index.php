@@ -315,7 +315,6 @@ foreach ($archives as $url => $archive) {
 
 
 $newsletters = [
-    '/subscribe/enterprise' => 'enterprise@ml.kanboard.net',
     '/subscribe/newsletter' => 'newsletter@ml.kanboard.net',
 ];
 
@@ -354,26 +353,6 @@ foreach ($docs as $url => $language) {
 
 
 $pages = [
-    '/hosting' => 'en_US/hosting.markdown',
-    '/fr/hebergement' => 'fr_FR/hosting.markdown',
-];
-
-foreach ($pages as $url => $markdown_file) {
-    $app->get($url, function () use ($app, $markdown_file) {
-        return cache($app, function () use ($app, $markdown_file) {
-            $page = render_page(DATA_PATH.'pages/'.$markdown_file);
-
-            return $app['twig']->render('hosting.twig', [
-                'page' => $page,
-                'nav' => render_nav($page['language']),
-                'language' => $page['language'],
-            ]);
-        });
-    });
-}
-
-
-$pages = [
     '/' => 'en_US/index.markdown',
     '/security' => 'en_US/security.markdown',
     '/terms' => 'en_US/tos.markdown',
@@ -382,8 +361,6 @@ $pages = [
     '/fr/fonctionnalites' => 'fr_FR/features.markdown',
     '/downloads' => 'en_US/downloads.markdown',
     '/fr/telechargements' => 'fr_FR/downloads.markdown',
-    '/hosting' => 'en_US/hosting.markdown',
-    '/fr/hebergement' => 'fr_FR/hosting.markdown',
     '/donations' => 'en_US/donations.markdown',
     '/fr/donations' => 'fr_FR/donations.markdown',
     '/related-projects' => 'en_US/projects.markdown',
@@ -405,7 +382,7 @@ foreach ($pages as $url => $markdown_file) {
 
 
 $redirects = [
-    '/demo' => '/hosting',
+    '/demo' => '/downloads',
     '/development' => '/consulting',
     '/documentation/slack' => '/plugin/slack',
     '/documentation/jabber' => '/plugin/jabber',
@@ -428,8 +405,6 @@ $redirects = [
     '/features/dashboard' => '/features',
     '/features/search-and-filters' => '/features',
     '/features/kanban' => '/features',
-    '/consulting' => '/enterprise',
-    '/fr/personnalisation' => '/fr/entreprise',
 ];
 
 foreach ($redirects as $source => $destination) {

@@ -388,21 +388,6 @@ aside a {
     color: #aaa;
 }
 
-#hosting {
-    border: 2px dotted #ddd;
-    padding: 20px 20px 0;
-    margin-top: 5px;
-    font-size: 110%;
-}
-
-#hosting h3 {
-    color: #444;
-}
-
-#hosting p {
-    color: #777;
-}
-
 .align-center {
     text-align: center;
 }

@@ -10,16 +10,6 @@ Kanboard is not for everybody, it's made for people who want to manage their pro
 
 ![Kanboard Overview](/screenshots/board.png)
 
-<div class="align-center subscribe">
-    <p>
-        <a href="https://signup.kanboard.net/" class="btn btn-blue subscribe-link">Try Kanboard For Free</a>
-    </p>
-
-    <small>
-        The <a href="/hosting">hosted version</a> is <strong>only $4.99/user/month</strong> with a <strong>free trial period of 15 days</strong>.
-    </small>
-</div>
-
 - Visualize your work
 - Limit your work in progress to be **more efficient**
 - Customize your boards according to your [business activities](/documentation/usage-examples)

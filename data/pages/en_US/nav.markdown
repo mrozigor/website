@@ -3,7 +3,6 @@
 - [News](/news)
 - [Documentation](/documentation)
 - [Downloads](/downloads)
-- [Hosting](/hosting)
 
 ### Community
 

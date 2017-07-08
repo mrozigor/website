@@ -3,7 +3,6 @@
 - [Nouvelles](/news)
 - [Documentation](/fr/documentation)
 - [Téléchargement](/fr/telechargements)
-- [Hébergement](/fr/hebergement)
 
 ### Communauté
 

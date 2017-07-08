@@ -167,8 +167,6 @@ Hébergez l'application presque partout
 Installez Kanboard sur votre hébergement mutualisé, une machine virtuelle, votre Raspberry Pi ou votre ordinateur en local.
 Déployez Kanboard avec [Docker](/fr/documentation/docker) ou n'importe quelle plateforme de cloud.
 
-Si vous ne souhaitez pas vous préoccuper des détails techniques, nous proposons [une offre d'hébergement](/fr/hebergement).
-
 Installation vraiment simple
 ----------------------------
 
@@ -194,4 +192,4 @@ Logiciel libre et open source
 -----------------------------
 
 Kanboard est distribué sous **la licence permissive MIT**.
-Le logiciel est principalement développé par Frédéric Guillot, mais plus de 60 contributeurs ont participé à l'amélioration du projet.
+Le logiciel est principalement développé par Frédéric Guillot, mais plus de 170 contributeurs ont participé à l'amélioration du projet.

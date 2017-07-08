@@ -166,8 +166,6 @@ Host Almost Anywhere
 Install Kanboard on your shared hosting platform, your preferred VPS provider, your Raspberry Pi or localhost.
 Deploy Kanboard with [Docker](/documentation/docker) or any cloud platform like [Heroku](/documentation/heroku).
 
-If you don't want to deal with technical details, we propose a [managed hosting service](/hosting).
-
 Super Easy Installation
 -----------------------
 
@@ -193,4 +191,4 @@ Free and Open Source software
 -----------------------------
 
 Kanboard is distributed under **the permissive MIT License**.
-The software is mainly developed by Frédéric Guillot, but more than 60+ people have contributed!
+The software is mainly developed by Frédéric Guillot, but more than 170+ people have contributed!
