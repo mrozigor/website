@@ -7,7 +7,6 @@
 ### Communauté
 
 - [Donations](/fr/donations)
-- [Forum](https://forum.kanboard.net/)
 - [Suivi des bugs](https://github.com/kanboard/kanboard/issues)
 - [Projet Github](https://github.com/kanboard)
 - [Projets Externes](/related-projects)
