@@ -6,7 +6,7 @@ Security Issues
 ---------------
 
 * Fix two privilege escalation issues: an authenticated standard user could reset the password
-of another user by altering form data.
+of another user by altering form data. (CVE-2017-12850 and CVE-2017-12851, discovered by [chbi](https://chbi.eu/)).
 
 Improvements
 ------------
