@@ -30,4 +30,4 @@ Date: 2014-09-19
 - Many code refactoring and code improvements
 - Bug fixes
 
-[Download](https://kanboard.net/kanboard-1.0.8.zip)
+[Download](https://github.com/kanboard/kanboard/releases/download/v1.0.8/kanboard-1.0.8.zip)

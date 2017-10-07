@@ -23,6 +23,6 @@ A lot of them will be implemented for the next releases, just be patient :)
 - New translations: Swedish and Chinese
 - Bug fixes
 
-[Download](https://kanboard.net/kanboard-1.0.6.zip)
+[Download](https://github.com/kanboard/kanboard/releases/download/v1.0.6/kanboard-1.0.6.zip)
 
 **Happy Canada Day** for those living in Canada :)

@@ -21,4 +21,4 @@ Date: 2014-03-15
 - Improve tokens generation to use OpenSSL by default, or /dev/urandom or uniqid() as fallback
 - Code refactoring, add unit tests and bug fixes
 
-[Download](https://kanboard.net/kanboard-1.0.3.zip)
+[Download](https://github.com/kanboard/kanboard/releases/download/v1.0.3/kanboard-1.0.3.zip)

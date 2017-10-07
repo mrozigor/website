@@ -10,4 +10,4 @@ Date: 2014-02-22
 - Change the Markdown parser
 - Bug fixes
 
-[Download](https://kanboard.net/kanboard-1.0.1.zip)
+[Download](https://github.com/kanboard/kanboard/releases/download/v1.0.1/kanboard-1.0.1.zip)

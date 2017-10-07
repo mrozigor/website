@@ -10,10 +10,6 @@ Downloads
 
 - [kanboard-latest.zip](/kanboard-latest.zip) ([Signature](/kanboard-latest.zip.asc))
 
-### Nightly build (testing only)
-
-- [kanboard-nightly.zip](/kanboard-nightly.zip)
-
 ### Git Repository (development only)
 
 - [https://github.com/kanboard/kanboard](https://github.com/kanboard/kanboard)

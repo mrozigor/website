@@ -39,4 +39,4 @@ Date: 2014-11-01
 - Improve the user interface to be more efficient
 - Start to implement some reportings
 
-[Download](/kanboard-1.0.9.zip)
+[Download](https://github.com/kanboard/kanboard/releases/download/v1.0.9/kanboard-1.0.9.zip)

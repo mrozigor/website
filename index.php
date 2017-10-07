@@ -6,7 +6,6 @@ use PicoFeed\Syndication\AtomItemBuilder;
 
 const DATA_PATH           = 'data/';
 const DEFAULT_LANG        = 'en_US';
-const URL_NIGHTLY_ARCHIVE = 'https://s3.amazonaws.com/kanboard-releases/kanboard-nightly.zip';
 
 require __DIR__.'/vendor/autoload.php';
 
@@ -280,7 +279,6 @@ $app->get('/feed', function () use ($app) {
     return cache($app, function () use ($app) {
         $feedBuilder = AtomFeedBuilder::create()
             ->withTitle('Kanboard News')
-            ->withAuthor('Frédéric Guillot', '', 'https://github.com/fguillot')
             ->withFeedUrl('https://kanboard.net/feed')
             ->withSiteUrl('https://kanboard.net/')
             ->withDate(new DateTime());
@@ -302,9 +300,8 @@ $app->get('/feed', function () use ($app) {
 
 
 $archives = [
-    '/kanboard-nightly.zip' => URL_NIGHTLY_ARCHIVE,
-    '/kanboard-latest.zip' => '/kanboard-' . APP_VERSION . '.zip',
-    '/kanboard-latest.zip.asc' => '/kanboard-' . APP_VERSION . '.zip.asc',
+    '/kanboard-latest.zip' => 'https://github.com/kanboard/kanboard/releases/download/v'.APP_VERSION .'/kanboard-'.APP_VERSION.'.zip',
+    '/kanboard-latest.zip.asc' => 'https://github.com/kanboard/kanboard/releases/download/v'.APP_VERSION .'/kanboard-'.APP_VERSION.'.zip.asc',
 ];
 
 foreach ($archives as $url => $archive) {

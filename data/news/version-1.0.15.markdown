@@ -121,4 +121,4 @@ Other improvements
 
 Thanks to everybody!
 
-[Download the version 1.0.15](https://kanboard.net/kanboard-1.0.15.zip)
+[Download the version 1.0.15](https://github.com/kanboard/kanboard/releases/download/v1.0.15/kanboard-1.0.15.zip)

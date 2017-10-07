@@ -63,6 +63,6 @@ However you can always [build your own image](/documentation/docker) from the re
 - Gitlab webhooks
 - Continue to improve everything else
 
-[Download the version 1.0.10](/kanboard-1.0.10.zip)
+[Download the version 1.0.10](https://github.com/kanboard/kanboard/releases/download/v1.0.10/kanboard-1.0.10.zip)
 
 Thanks to all contributors!

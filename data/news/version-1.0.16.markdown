@@ -125,4 +125,4 @@ Other improvements and fixes
 
 See you next time for a better Kanboard :)
 
-[Download the version 1.0.16](https://kanboard.net/kanboard-1.0.16.zip)
+[Download the version 1.0.16](https://github.com/kanboard/kanboard/releases/download/v1.0.16/kanboard-1.0.16.zip)

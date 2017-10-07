@@ -130,4 +130,4 @@ Other improvements
 
 Thanks to everybody!
 
-[Download the version 1.0.13](https://kanboard.net/kanboard-1.0.13.zip)
+[Download the version 1.0.13](https://github.com/kanboard/kanboard/releases/download/v1.0.13/kanboard-1.0.13.zip)

@@ -36,4 +36,4 @@ Kanboard is better after each release, a lot of improvements and features are pl
 
 Thanks to all contributors.
 
-[Download](https://kanboard.net/kanboard-1.0.7.zip)
+[Download](https://github.com/kanboard/kanboard/releases/download/v1.0.7/kanboard-1.0.7.zip)

@@ -28,4 +28,4 @@ Date: 2014-05-04
 - More documentation
 - Bug fixes
 
-[Download](https://kanboard.net/kanboard-1.0.4.zip)
+[Download](https://github.com/kanboard/kanboard/releases/download/v1.0.4/kanboard-1.0.4.zip)

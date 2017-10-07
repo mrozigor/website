@@ -53,6 +53,6 @@ Focus for the next version
 - Improve the API to be able to create mobile applications easily
 - Integrate the pull-request about the calendar view
 
-[Download the version 1.0.11](https://kanboard.net/kanboard-1.0.11.zip)
+[Download the version 1.0.11](https://github.com/kanboard/kanboard/releases/download/v1.0.11/kanboard-1.0.11.zip)
 
 Thanks to everybody!

@@ -187,4 +187,4 @@ Here are some external projects made by contributors:
 
 **Thanks to all contributors!**
 
-[Download the version 1.0.12](https://kanboard.net/kanboard-1.0.12.zip)
+[Download the version 1.0.12](https://github.com/kanboard/kanboard/releases/download/v1.0.12/kanboard-1.0.12.zip)

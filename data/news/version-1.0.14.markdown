@@ -73,4 +73,4 @@ Other improvements
 
 Thanks to everybody!
 
-[Download the version 1.0.14](https://kanboard.net/kanboard-1.0.14.zip)
+[Download the version 1.0.14](https://github.com/kanboard/kanboard/releases/download/v1.0.14/kanboard-1.0.14.zip)

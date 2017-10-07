@@ -55,5 +55,5 @@ Download
 --------
 
 - [Full ChangeLog](https://github.com/kanboard/kanboard/blob/master/ChangeLog)
-- [Download the version 1.0.24](https://kanboard.net/kanboard-1.0.24.zip)
+- [Download the version 1.0.24](https://github.com/kanboard/kanboard/releases/download/v1.0.24/kanboard-1.0.24.zip)
 - [How to upgrade Kanboard to a new version](https://kanboard.net/documentation/update)

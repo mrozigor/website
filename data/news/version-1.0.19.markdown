@@ -89,4 +89,4 @@ Download
 --------
 
 - [Full ChangeLog](https://github.com/kanboard/kanboard/blob/master/ChangeLog)
-- [Download the version 1.0.19](https://kanboard.net/kanboard-1.0.19.zip)
+- [Download the version 1.0.19](https://github.com/kanboard/kanboard/releases/download/v1.0.19/kanboard-1.0.19.zip)
