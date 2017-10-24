@@ -8,7 +8,7 @@ Build with PHP, Silex, Twig, Parsedown and [PicoFeed](https://github.com/fguillo
 Documentation
 -------------
 
-The Kanboard's documentation source code is located in the Kanboard application repository: https://github.com/kanboard/kanboard. 
+The Kanboard's documentation source code is located in the Kanboard application repository: https://github.com/kanboard/kanboard.
 
 This repository contains only a copy of the last stable release.
 
@@ -19,18 +19,6 @@ Start PHP webserver on localhost:
 
 ```bash
 make serve
-```
-
-Build Docker image:
-
-```bash
-make docker-image
-```
-
-Start Docker container:
-
-```bash
-make docker-run
 ```
 
 API
