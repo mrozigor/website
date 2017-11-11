@@ -506,7 +506,7 @@ Budget planning based on sub-task time tracking:
         'compatible_version' => '>=1.0.34',
     ],
     'timeintervalbutton' => [
-        'title' => 'Time IntervalButton',
+        'title' => 'Time Interval Button',
         'version' => '0.9.0',
         'author' => 'Igor Mroz',
         'license' => 'MIT',
