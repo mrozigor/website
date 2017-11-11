@@ -505,4 +505,16 @@ Budget planning based on sub-task time tracking:
         'remote_install' => true,
         'compatible_version' => '>=1.0.34',
     ],
+    'timeintervalbutton' => [
+        'title' => 'Time IntervalButton',
+        'version' => '0.9.0',
+        'author' => 'Igor Mroz',
+        'license' => 'MIT',
+        'description' => 'Simple plugins which adds button to incrementally change time spent on task.',
+        'homepage' => 'https://github.com/mrozigor/kanboard-add-time-interval-plugin',
+        'readme' => 'https://raw.githubusercontent.com/mrozigor/kanboard-add-time-interval-plugin/master/README.md',
+        'download' => 'https://github.com/mrozigor/kanboard-add-time-interval-plugin/releases/download/0.9.0/TaskIntervalButton-0.9.0.zip',
+        'remote_install' => true,
+        'compatible_version' => '>=1.0.35'
+    ],
 ];
